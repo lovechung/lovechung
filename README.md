@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=lovechung&color=blue)
+
+
+![](https://komarev.com/ghpvc/?username=lovechung&color=ff69b4)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lovechung&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
